@@ -1,18 +1,15 @@
 # Youtube Responsive with Flutter 2.0
 
-A new Flutter project.
+A responsive youtube app using Flutter 2
 
-## Getting Started
+## Packages Used
 
-This project is a starting point for a Flutter application.
+- [Youtube Player Iframe](https://pub.dev/packages/youtube_plyr_iframe)
+- [Assets indexer](https://pub.dev/packages/assets_indexer)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Preview with web, ios & android
+<img src="ss.png" width="800px" height="auto" />
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-<img src="ss.png" width="800px" height="auto" />
